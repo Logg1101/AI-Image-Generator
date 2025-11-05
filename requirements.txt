@@ -1,0 +1,10 @@
+torch==2.1.2
+torchvision
+torchaudio
+xformers
+gradio==3.41.2
+diffusers
+transformers
+safetensors
+numpy
+Pillow
