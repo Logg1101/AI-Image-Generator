@@ -13,7 +13,7 @@
 ---
 
 ### 🖼️ Generated Image
-![Scenic Landscape](scenery.png)
+![Scenic Landscape](Scenery.png)
 
 ---
 
