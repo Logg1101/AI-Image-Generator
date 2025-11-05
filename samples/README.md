@@ -1,1 +1,2 @@
-**This folder displays the images generated from this generator, please note that the AI is not trained and the images are generated based on what was in the API.**
+**This folder contains sample images generated using the AI Image Generator.
+Note: The AI model itself was not custom-trained — the images are generated based on pre-trained Stable Diffusion checkpoints accessed through the WebUI/API.**
