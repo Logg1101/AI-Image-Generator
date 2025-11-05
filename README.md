@@ -1,4 +1,4 @@
-![AI Image Generator Interface](cover.png)
+![AI-Image-Generator](cover.png)
 
 
 # AI Image Generator 🎨
